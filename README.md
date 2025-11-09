@@ -1,7 +1,7 @@
  formulario
  baixar pasta
  executar index.html
- ou acessa o deploy
+ ou acessar o deploy
  # Deploy
  https://leoncs5.github.io/formulario/
 
